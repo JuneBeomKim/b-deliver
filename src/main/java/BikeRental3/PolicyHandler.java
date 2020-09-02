@@ -1,6 +1,6 @@
-package BikeRental;
+package BikeRental3;
 
-import BikeRental.config.kafka.KafkaProcessor;
+import BikeRental3.config.kafka.KafkaProcessor;
 import com.fasterxml.jackson.databind.DeserializationFeature;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.springframework.beans.factory.annotation.Autowired;
