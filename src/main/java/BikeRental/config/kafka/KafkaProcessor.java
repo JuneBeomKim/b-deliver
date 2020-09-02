@@ -1,4 +1,4 @@
-package BikeRental3.config.kafka;
+package BikeRental.config.kafka;
 
 import org.springframework.cloud.stream.annotation.Input;
 import org.springframework.cloud.stream.annotation.Output;

@@ -1,5 +1,5 @@
-package BikeRental3;
-import BikeRental3.config.kafka.KafkaProcessor;
+package BikeRental;
+import BikeRental.config.kafka.KafkaProcessor;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ApplicationContext;
