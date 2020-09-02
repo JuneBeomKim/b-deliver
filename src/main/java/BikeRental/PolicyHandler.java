@@ -1,4 +1,4 @@
-package BikeRental3;
+package BikeRental;
 
 import BikeRental3.config.kafka.KafkaProcessor;
 import com.fasterxml.jackson.databind.DeserializationFeature;

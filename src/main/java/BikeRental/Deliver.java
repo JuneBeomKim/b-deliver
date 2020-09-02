@@ -1,4 +1,4 @@
-package BikeRental3;
+package BikeRental;
 
 import javax.persistence.*;
 import org.springframework.beans.BeanUtils;

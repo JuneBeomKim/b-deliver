@@ -1,5 +1,5 @@
 
-package BikeRental3;
+package BikeRental;
 
 public class RentalCancelled extends AbstractEvent {
 

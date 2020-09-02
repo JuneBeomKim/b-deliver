@@ -1,4 +1,4 @@
-package BikeRental3;
+package BikeRental;
 
 import org.springframework.data.repository.PagingAndSortingRepository;
 

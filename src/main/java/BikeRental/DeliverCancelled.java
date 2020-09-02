@@ -1,6 +1,6 @@
-package BikeRental3;
+package BikeRental;
 
-public class Delivered extends AbstractEvent {
+public class DeliverCancelled extends AbstractEvent {
 
     private Long id;
     private Long rentalId;
@@ -8,7 +8,7 @@ public class Delivered extends AbstractEvent {
     private Long userId;
     private String status;
 
-    public Delivered(){
+    public DeliverCancelled(){
         super();
     }
 
