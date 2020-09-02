@@ -18,6 +18,8 @@ public class Deliver {
 
     @PostPersist
     public void onPostPersist(){
+
+        System.out.println("deliver onPostPersist");
         Delivered delivered = new Delivered();
         BeanUtils.copyProperties(this, delivered);
         delivered.publishAfterCommit();
